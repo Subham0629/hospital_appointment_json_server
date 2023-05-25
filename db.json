@@ -5,7 +5,7 @@
     "appointments": [
         {
           "name": "Jane Doe",
-          "image": "https://example.com/doctor-image.jpg",
+          "image": "https://img.freepik.com/free-photo/smiling-doctor-with-strethoscope-isolated-grey_651396-974.jpg?size=626&ext=jpg",
           "specialization": "Dermatologist",
           "experience": 10,
           "location": "Los Angeles",
@@ -15,7 +15,7 @@
         },
         {
           "name": "Mark Johnson",
-          "image": "https://example.com/doctor-image.jpg",
+          "image": "https://img.freepik.com/free-photo/smiling-doctor-with-strethoscope-isolated-grey_651396-974.jpg?size=626&ext=jpg",
           "specialization": "Pediatrician",
           "experience": 5,
           "location": "Chicago",
@@ -26,7 +26,7 @@
         ,
         {
           "name": "Subham",
-          "image": "https://example.com/doctor-image.jpg",
+          "image": "https://img.freepik.com/free-photo/smiling-doctor-with-strethoscope-isolated-grey_651396-974.jpg?size=626&ext=jpg",
           "specialization": "Pediatrician",
           "experience": 10,
           "location": "Delhi",
@@ -37,7 +37,7 @@
         ,
         {
           "name": "Vicky",
-          "image": "https://example.com/doctor-image.jpg",
+          "image": "https://img.freepik.com/free-photo/smiling-doctor-with-strethoscope-isolated-grey_651396-974.jpg?size=626&ext=jpg",
           "specialization": "Dermatologist",
           "experience": 7,
           "location": "Mumbai",
