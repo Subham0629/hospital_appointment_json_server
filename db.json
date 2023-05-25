@@ -4,6 +4,7 @@
     ],
     "appointments": [
         {
+          "id":1,
           "name": "Jane Doe",
           "image": "https://img.freepik.com/free-photo/smiling-doctor-with-strethoscope-isolated-grey_651396-974.jpg?size=626&ext=jpg",
           "specialization": "Dermatologist",
@@ -14,6 +15,7 @@
           "fee": 150
         },
         {
+          "id":2,
           "name": "Mark Johnson",
           "image": "https://img.freepik.com/free-photo/smiling-doctor-with-strethoscope-isolated-grey_651396-974.jpg?size=626&ext=jpg",
           "specialization": "Pediatrician",
@@ -25,6 +27,7 @@
         }
         ,
         {
+          "id":3,
           "name": "Subham",
           "image": "https://img.freepik.com/free-photo/smiling-doctor-with-strethoscope-isolated-grey_651396-974.jpg?size=626&ext=jpg",
           "specialization": "Pediatrician",
@@ -36,6 +39,7 @@
         }
         ,
         {
+          "id":4,
           "name": "Vicky",
           "image": "https://img.freepik.com/free-photo/smiling-doctor-with-strethoscope-isolated-grey_651396-974.jpg?size=626&ext=jpg",
           "specialization": "Dermatologist",
